@@ -250,7 +250,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(528, 450);
+            this.ClientSize = new System.Drawing.Size(584, 461);
             this.Controls.Add(this.lbl_Varmi);
             this.Controls.Add(this.mtb_Telefon);
             this.Controls.Add(this.mtb_TC);

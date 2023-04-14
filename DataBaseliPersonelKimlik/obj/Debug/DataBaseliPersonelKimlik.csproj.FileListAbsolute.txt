@@ -9,3 +9,14 @@ C:\Users\toshiba\source\repos\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\
 C:\Users\toshiba\source\repos\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.csproj.CoreCompileInputs.cache
 C:\Users\toshiba\source\repos\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.exe
 C:\Users\toshiba\source\repos\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.pdb
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\bin\Debug\DataBaseliPersonelKimlik.exe.config
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\bin\Debug\DataBaseliPersonelKimlik.exe
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\bin\Debug\DataBaseliPersonelKimlik.pdb
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.csproj.AssemblyReference.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.csproj.SuggestedBindingRedirects.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.Form1.resources
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.Properties.Resources.resources
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.csproj.GenerateResource.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.csproj.CoreCompileInputs.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.exe
+C:\Users\poedx\OneDrive\Belgeler\GitHub\DataBaseliPersonelKimlik\DataBaseliPersonelKimlik\obj\Debug\DataBaseliPersonelKimlik.pdb
